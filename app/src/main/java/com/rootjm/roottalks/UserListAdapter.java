@@ -1,12 +1,10 @@
 package com.rootjm.roottalks;
 
 import android.content.Context;
-import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
-import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
@@ -104,31 +102,6 @@ public class UserListAdapter extends BaseAdapter {
         }
 
         text.setText(m_List.get(position).userID);
-
-        /*
-        if(m_List.get(position).type == 0 ) {
-            text.setBackgroundResource(R.drawable.leftmal);
-            layout.setGravity(Gravity.LEFT);
-            viewRight.setVisibility(View.GONE);
-            viewLeft.setVisibility(View.GONE);
-            //  Toast.makeText(context, "Left Mal is called!!", Toast.LENGTH_LONG).show();
-        }
-        else if(m_List.get(position).type == 1 ) {
-            text.setBackgroundResource(R.drawable.rightmal);
-            layout.setGravity(Gravity.RIGHT);
-            viewRight.setVisibility(View.GONE);
-            viewLeft.setVisibility(View.GONE);
-            // Toast.makeText(context, "Right Mal is called!!", Toast.LENGTH_LONG).show();
-        }
-        else if(m_List.get(position).type == 2 ) {
-            text.setBackgroundResource(R.drawable.textbg);
-            layout.setGravity(Gravity.CENTER);
-            viewRight.setVisibility(View.VISIBLE);
-            viewLeft.setVisibility(View.VISIBLE);
-
-            //  Toast.makeText(context, "Center Mal is called!!", Toast.LENGTH_LONG).show();
-        }
-         */
 
         convertView.setOnClickListener(new View.OnClickListener() {
             @Override
