@@ -1,0 +1,72 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/Users/imjaemin/WorkData/Work/RootTalksIOM",
+      "sdkFolder": "/Users/imjaemin/Library/Android/sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/Users/imjaemin/WorkData/Work/RootTalksIOM/app/build/intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "/Users/imjaemin/WorkData/Work/RootTalksIOM/app",
+      "makeFile": "/Users/imjaemin/WorkData/Work/RootTalksIOM/app/src/main/cpp/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/Users/imjaemin/WorkData/Work/RootTalksIOM/.cxx",
+      "cxxFolder": "/Users/imjaemin/WorkData/Work/RootTalksIOM/app/.cxx",
+      "ndkFolder": "/Users/imjaemin/Library/Android/sdk/ndk-bundle",
+      "ndkVersion": "20.0.5594570",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [
+      "-std\u003dc++11"
+    ],
+    "variantName": "debug",
+    "soFolder": "/Users/imjaemin/WorkData/Work/RootTalksIOM/app/build/intermediates/cmake/debug/lib",
+    "objFolder": "/Users/imjaemin/WorkData/Work/RootTalksIOM/app/build/intermediates/cmake/debug/obj",
+    "jsonFolder": "/Users/imjaemin/WorkData/Work/RootTalksIOM/app/.cxx/cmake/debug",
+    "gradleBuildOutputFolder": "/Users/imjaemin/WorkData/Work/RootTalksIOM/app/.cxx/cxx/debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "/Users/imjaemin/WorkData/Work/RootTalksIOM/app/.cxx/cmake/debug/arm64-v8a",
+  "jsonFile": "/Users/imjaemin/WorkData/Work/RootTalksIOM/app/.cxx/cmake/debug/arm64-v8a/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/Users/imjaemin/WorkData/Work/RootTalksIOM/app/.cxx/cxx/debug/arm64-v8a",
+  "objFolder": "/Users/imjaemin/WorkData/Work/RootTalksIOM/app/build/intermediates/cmake/debug/obj/arm64-v8a",
+  "buildCommandFile": "/Users/imjaemin/WorkData/Work/RootTalksIOM/app/.cxx/cmake/debug/arm64-v8a/build_command.txt",
+  "buildOutputFile": "/Users/imjaemin/WorkData/Work/RootTalksIOM/app/.cxx/cmake/debug/arm64-v8a/build_output.txt",
+  "modelOutputFile": "/Users/imjaemin/WorkData/Work/RootTalksIOM/app/.cxx/cmake/debug/arm64-v8a/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/Users/imjaemin/WorkData/Work/RootTalksIOM/app/.cxx/cxx/debug/arm64-v8a/CMakeLists.txt",
+    "toolchainWrapperFile": "/Users/imjaemin/WorkData/Work/RootTalksIOM/app/.cxx/cxx/debug/arm64-v8a/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/Users/imjaemin/WorkData/Work/RootTalksIOM/app/.cxx/cxx/debug/arm64-v8a/build_generation_state.json",
+    "cacheKeyFile": "/Users/imjaemin/WorkData/Work/RootTalksIOM/app/.cxx/cxx/debug/arm64-v8a/compiler_cache_key.json",
+    "compilerCacheUseFile": "/Users/imjaemin/WorkData/Work/RootTalksIOM/app/.cxx/cxx/debug/arm64-v8a/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/Users/imjaemin/WorkData/Work/RootTalksIOM/app/.cxx/cxx/debug/arm64-v8a/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/Users/imjaemin/WorkData/Work/RootTalksIOM/app/.cxx/cxx/debug/arm64-v8a/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/Users/imjaemin/WorkData/Work/RootTalksIOM/app/.cxx/cmake/debug/arm64-v8a/json_generation_record.json",
+  "compileCommandsJsonFile": "/Users/imjaemin/WorkData/Work/RootTalksIOM/app/.cxx/cmake/debug/arm64-v8a/compile_commands.json"
+}

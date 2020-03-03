@@ -1,0 +1,13 @@
+# ninja log v5
+53	341	0	CMakeFiles/native-lib.dir/test.cpp.o	5744b1a1c2712eee
+53	1211	0	CMakeFiles/native-lib.dir/native-lib.cpp.o	9853468ab79f965e
+1212	1711	0	/Users/imjaemin/WorkData/Work/RootTalksIOM/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	65174f103866c569
+104	219	0	CMakeFiles/native-lib.dir/test.cpp.o	5744b1a1c2712eee
+104	968	0	CMakeFiles/native-lib.dir/native-lib.cpp.o	9853468ab79f965e
+968	1531	0	/Users/imjaemin/WorkData/Work/RootTalksIOM/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	65174f103866c569
+2	3736	0	CMakeFiles/native-lib.dir/native-lib.cpp.o	9853468ab79f965e
+3736	4947	0	/Users/imjaemin/WorkData/Work/RootTalksIOM/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	65174f103866c569
+31	4588	0	CMakeFiles/native-lib.dir/native-lib.cpp.o	9853468ab79f965e
+4588	5260	0	/Users/imjaemin/WorkData/Work/RootTalksIOM/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	65174f103866c569
+41	2337	0	CMakeFiles/native-lib.dir/native-lib.cpp.o	9853468ab79f965e
+2337	2930	0	/Users/imjaemin/WorkData/Work/RootTalksIOM/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	65174f103866c569

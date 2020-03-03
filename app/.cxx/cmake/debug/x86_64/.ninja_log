@@ -1,0 +1,9 @@
+# ninja log v5
+132	631	0	CMakeFiles/native-lib.dir/test.cpp.o	e4fee349f5d8036
+131	2451	0	CMakeFiles/native-lib.dir/native-lib.cpp.o	abd723e24cd70057
+2452	9037	0	/Users/imjaemin/WorkData/Work/RootTalksIOM/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	731c8c29bde6b875
+151	267	0	CMakeFiles/native-lib.dir/test.cpp.o	e4fee349f5d8036
+151	1038	0	CMakeFiles/native-lib.dir/native-lib.cpp.o	abd723e24cd70057
+1038	1628	0	/Users/imjaemin/WorkData/Work/RootTalksIOM/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	731c8c29bde6b875
+53	1005	0	CMakeFiles/native-lib.dir/native-lib.cpp.o	abd723e24cd70057
+1005	3647	0	/Users/imjaemin/WorkData/Work/RootTalksIOM/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	731c8c29bde6b875
