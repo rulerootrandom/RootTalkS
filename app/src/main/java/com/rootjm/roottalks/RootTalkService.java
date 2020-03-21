@@ -7,6 +7,7 @@ import android.app.PendingIntent;
 import android.app.Service;
 import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
 import android.content.pm.ResolveInfo;
 import android.media.MediaPlayer;
@@ -231,16 +232,16 @@ public class RootTalkService extends Service {
     public void onCreate() {
         super.onCreate();
 
-        /*
+       // /*
         SharedPreferences userlogin = getSharedPreferences("userlogin", MODE_PRIVATE );
 
         iLogined = userlogin.getInt( "ILogined", 0 );
 
         mUserName = userlogin.getString( "UserName", " " );
-        */
+       // */
 
-        mUserName = " ";
-        iLogined = 0;
+    //    mUserName = " ";
+     //   iLogined = 0;
 
 
      //   if( iLogined == 1 )
